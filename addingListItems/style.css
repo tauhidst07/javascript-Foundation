@@ -1,0 +1,19 @@
+.container{
+    width: 500px; 
+    border: 2px solid black; 
+    margin-left: 10rem; 
+    margin-top: 10rem; 
+    display: flex; 
+    position: relative; 
+    flex-direction: column;
+} 
+.btn{
+    padding: 5px 10px; 
+    background-color: azure; 
+    position: absolute; 
+    bottom: 20px; 
+    right: 10px; 
+    cursor: pointer;  
+    border-radius: 12px; 
+    outline: none;
+}
